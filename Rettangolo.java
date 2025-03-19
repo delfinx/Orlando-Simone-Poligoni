@@ -1,0 +1,4 @@
+class Rettangolo extends Poligono{
+    
+
+}

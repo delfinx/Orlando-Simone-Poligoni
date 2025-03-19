@@ -1,0 +1,3 @@
+class Quadrato extends Poligono{ 
+    
+}
